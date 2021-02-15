@@ -1,4 +1,5 @@
 retrying==1.3.3
 pandas
 sklearn
+msrestazure
 kubeflow-fairing
